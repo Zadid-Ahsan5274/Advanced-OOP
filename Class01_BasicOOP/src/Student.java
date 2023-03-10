@@ -10,7 +10,7 @@ public class Student extends User {
 	public Student(String fName, String lName, String idNo) {
 		firstName = fName;
 		lastName = lName;
-		id = idNo;
+		//id = idNo;
 	}
 
 	public String getFullName() {
